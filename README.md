@@ -25,6 +25,7 @@
 
 ## 形象参考与致谢
 
+- **DeepSeek**：感谢其产品与品牌为本次同人创作带来的灵感，[官方网站](https://www.deepseek.com/)；此项致谢不代表官方授权、合作或背书。
 - **上善无形**：原始鲸鱼娘角色创作者，[Bilibili 主页](https://space.bilibili.com/4456176)。
 - **ZipZipPipe**：基于原角色进行 DeepSeek 女仆二次设计；[相关作品与许可说明](https://www.bilibili.com/video/BV1tE9XBbErS/)。
 - **梗鲸设定集**：本项目所用 Q 版三视图的[整理来源](https://aigengtu.com/refs)；具体绘制者目前仍待核实。
