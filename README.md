@@ -31,5 +31,6 @@
 - **梗鲸设定集**：本项目所用 Q 版三视图的[整理来源](https://aigengtu.com/refs)；具体绘制者目前仍待核实。
 - **ai-girls 素材档案**：提供[来源与创作链核验记录](https://github.com/shuaizenge/ai-girls/tree/main/characters/deepseek)。
 - **Kimi 3D Make**：模型生成工具。
+- **Tripo**：在模型生成过程中提供 API 支持，[官方网站](https://www.tripo3d.ai/)。
 
 感谢上述创作者、整理者与工具提供方。
